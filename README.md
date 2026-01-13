@@ -133,6 +133,6 @@ Note: Issues without logs may not be effectively addressed.
 愛君の名は
 
 
-## Русский
+## russian
 
 123
