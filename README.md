@@ -1,6 +1,6 @@
 # HyperLight
 
-[简体中文](#简体中文) | [English](#english)
+[简体中文](#简体中文) | [English](#english) | [Русский](#russian)
 
 ---
 
@@ -131,3 +131,8 @@ Note: Issues without logs may not be effectively addressed.
 ### Developer
 
 愛君の名は
+
+
+## Русский
+
+123
